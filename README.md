@@ -1,7 +1,8 @@
 # Learn-Data-Science-from-scratch
 
 * Data and it's types
-* Python 
+* Python
+   -- Data Cleaning 
    -- Basic concepts
    -- Advanced Concepts
    -- Pandas
@@ -16,3 +17,7 @@
   -- Model training
 * Deep Learning
 * ML OPS
+
+
+*Libraries
+--
